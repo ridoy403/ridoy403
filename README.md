@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋 I'm Rifat Hasan
 
-<!--
-**ridoy403/ridoy403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a beginner web developer currently learning **HTML**, **CSS**, and **JavaScript**  
+📚 I'm studying through **SoloLearn** and building small projects to improve my skills  
+🎯 My goal is to become a creative front-end developer and build real-world websites  
+🌍 Location: Dhaka, Bangladesh  
+💼 Currently: Learning & Exploring  
+📬 Available for freelance or collaboration
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies I'm Learning
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)  
+- Git & GitHub  
+
+---
+
+## 🌱 Current Projects
+- Portfolio Website  
+- Simple Calculator  
+- Personal Blog Design  
+- Audio Player UI
+
+---
+
+## 📈 GitHub Stats (optional)
+
+![Ridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridoy403&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with me:
+- GitHub: [github.com/ridoy403](https://github.com/ridoy403)
+
+---
+
+_Thanks for visiting my profile! Stay connected. ❤️_
