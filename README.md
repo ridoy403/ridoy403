@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Rifat Hasan
+# Hi there 👋 I'm Ridoy Hasan
 
 🚀 I'm a beginner web developer currently learning **HTML**, **CSS**, and **JavaScript**  
 📚 I'm studying through **SoloLearn** and building small projects to improve my skills  
